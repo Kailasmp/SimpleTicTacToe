@@ -18,7 +18,7 @@ This project is a simple command-line implementation of the classic Tic-Tac-Toe 
 
 #### How to Play
 1. Clone or download the repository.
-2. Run the `tic_tac_toe.py` file in a Python environment.
+2. Run the `tic_tac_toe.ipynb` file in a Python environment.
 3. Follow the prompts to play the game.
 
 #### Future Enhancements
